@@ -1,0 +1,22 @@
+{
+  "profile": {
+    "name": "Kaif Abbas",
+    "subtitle": "",
+    "image": "/images/kaif.png"
+  },
+  "socialLinks": [],
+  "workLinks": [],
+  "publications": [],
+  "connectLinks": [],
+  "footer": "",
+  "globalSections": ["theme", "profile", "connectLinks"],
+  "sectionOrder": ["profile", "connectLinks", "footer"],
+  "sectionSettings": {},
+  "theme": {
+    "buttonColors": ["#80d6ff", "#3DCD49", "#ffd300", "#ff5852"],
+    "backgroundColor": "#ffffff",
+    "backgroundImage": ""
+  },
+  "pages": {},
+  "changelog": []
+}
